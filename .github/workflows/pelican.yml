@@ -12,6 +12,3 @@ jobs:
       id-token: write
     with:
       settings: "publishconf.py"
-      requirements: "pelican[markdown] typogrify"
-      theme: "sidecar"
-      python: "3.12"
