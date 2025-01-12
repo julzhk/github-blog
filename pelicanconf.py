@@ -19,7 +19,7 @@ AUTHORS_URL = "authors/"
 ARCHIVES_SAVE_AS = "archives/index.html"
 ARCHIVES_URL = "archives/"
 DISPLAY_CATEGORIES_ON_MENU = True
-GITHUB_URL = "https://github.com/julzhk/github-blog"
+GITHUB_URL = "https://github.com/julzhk"
 DEFAULT_CATEGORY = "Tech"
 
 FEED_DOMAIN = SITEURL
